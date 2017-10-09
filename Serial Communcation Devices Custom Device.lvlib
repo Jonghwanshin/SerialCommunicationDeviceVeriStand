@@ -10,4 +10,6 @@
 	<Item Name="Serial Communcation Devices Main Page.vi" Type="VI" URL="../Serial Communcation Devices Main Page.vi"/>
 	<Item Name="Serial Communcation Devices RT Driver VI.vi" Type="VI" URL="../Serial Communcation Devices RT Driver VI.vi"/>
 	<Item Name="Add Serial Device Channel.vi" Type="VI" URL="../Add Serial Device Channel.vi"/>
+	<Item Name="Device Initialization.vi" Type="VI" URL="../Device Initialization.vi"/>
+	<Item Name="Channel Setting_2.vi" Type="VI" URL="../Channel Setting_2.vi"/>
 </Library>

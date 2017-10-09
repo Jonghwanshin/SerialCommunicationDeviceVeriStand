@@ -12,8 +12,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Custom Device API.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI Veristand/Custom Device API/Custom Device API.lvlib"/>
 		<Item Name="Custom Device Serial Communcation Devices.xml" Type="Document" URL="../Custom Device Serial Communcation Devices.xml"/>
-		<Item Name="Global.vi" Type="VI" URL="../Global.vi"/>
-		<Item Name="GlobalVariables.vi" Type="VI" URL="../GlobalVariables.vi"/>
 		<Item Name="Serial Communcation Devices Custom Device.lvlib" Type="Library" URL="../Serial Communcation Devices Custom Device.lvlib"/>
 		<Item Name="글로벌 1.vi" Type="VI" URL="../글로벌 1.vi"/>
 		<Item Name="의존성" Type="Dependencies">
@@ -68,6 +66,7 @@
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2017/Custom Devices/Serial Communcation Devices</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{17B9544B-4617-4079-BB13-9018112C3073}</Property>
+				<Property Name="Bld_version.build" Type="Int">17</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">대상 디렉토리</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2017/Custom Devices/Serial Communcation Devices</Property>
@@ -113,6 +112,7 @@
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2017/Custom Devices/Serial Communcation Devices</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A66606F6-278F-4E93-88A0-2EBBFFF3CD35}</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">대상 디렉토리</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2017/Custom Devices/Serial Communcation Devices</Property>
