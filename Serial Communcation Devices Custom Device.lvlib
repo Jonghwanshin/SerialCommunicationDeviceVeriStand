@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="글로벌 1.vi" Type="VI" URL="../글로벌 1.vi"/>
 	<Item Name="Channel Setting.vi" Type="VI" URL="../Channel Setting.vi"/>
 	<Item Name="Serial Communcation Devices GUID Lookup.vi" Type="VI" URL="../Serial Communcation Devices GUID Lookup.vi"/>
 	<Item Name="Serial Communcation Devices Initialization VI.vi" Type="VI" URL="../Serial Communcation Devices Initialization VI.vi"/>
@@ -11,5 +12,5 @@
 	<Item Name="Serial Communcation Devices RT Driver VI.vi" Type="VI" URL="../Serial Communcation Devices RT Driver VI.vi"/>
 	<Item Name="Add Serial Device Channel.vi" Type="VI" URL="../Add Serial Device Channel.vi"/>
 	<Item Name="Device Initialization.vi" Type="VI" URL="../Device Initialization.vi"/>
-	<Item Name="Channel Setting_2.vi" Type="VI" URL="../Channel Setting_2.vi"/>
+	<Item Name="Get Channel Properties.vi" Type="VI" URL="../Get Channel Properties.vi"/>
 </Library>

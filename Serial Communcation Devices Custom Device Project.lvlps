@@ -1,13 +1,5 @@
 [프로젝트 윈도우_데이터]
-ProjectExplorer.ClassicPosition[String] = "39,1,439,499"
-
-[AB_Cache_{A3F0862E-0365-4222-B5EE-34972AA763A9}]
-Cache_Path[Path] Line0001 = "/C/Users/EnSLabTest/AppData/Local/Temp/AB_Cache_{A"
-Cache_Path[Path] Line0002 = "3F0862E-0365-4222-B5EE-34972AA763A9}.txt"
-
-[AB_Cache_{A66606F6-278F-4E93-88A0-2EBBFFF3CD35}]
-Cache_Path[Path] Line0001 = "/C/Users/EnSLabTest/AppData/Local/Temp/AB_Cache_{A"
-Cache_Path[Path] Line0002 = "66606F6-278F-4E93-88A0-2EBBFFF3CD35}.txt"
+ProjectExplorer.ClassicPosition[String] = "33,17,983,674"
 
 [AB_Cache_{44AD8207-7028-4CBC-A3B1-B95989339BD3}]
 Cache_Path[Path] Line0001 = "/C/Users/EnSLabTest/AppData/Local/Temp/AB_Cache_{4"
@@ -16,4 +8,12 @@ Cache_Path[Path] Line0002 = "4AD8207-7028-4CBC-A3B1-B95989339BD3}.txt"
 [AB_Cache_{17B9544B-4617-4079-BB13-9018112C3073}]
 Cache_Path[Path] Line0001 = "/C/Users/EnSLabTest/AppData/Local/Temp/AB_Cache_{1"
 Cache_Path[Path] Line0002 = "7B9544B-4617-4079-BB13-9018112C3073}.txt"
+
+[AB_Cache_{A3F0862E-0365-4222-B5EE-34972AA763A9}]
+Cache_Path[Path] Line0001 = "/C/Users/EnSLabTest/AppData/Local/Temp/AB_Cache_{A"
+Cache_Path[Path] Line0002 = "3F0862E-0365-4222-B5EE-34972AA763A9}.txt"
+
+[AB_Cache_{A66606F6-278F-4E93-88A0-2EBBFFF3CD35}]
+Cache_Path[Path] Line0001 = "/C/Users/EnSLabTest/AppData/Local/Temp/AB_Cache_{A"
+Cache_Path[Path] Line0002 = "66606F6-278F-4E93-88A0-2EBBFFF3CD35}.txt"
 
