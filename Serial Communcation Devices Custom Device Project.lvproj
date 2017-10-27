@@ -68,7 +68,7 @@
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2017/Custom Devices/Serial Communcation Devices</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{17B9544B-4617-4079-BB13-9018112C3073}</Property>
-				<Property Name="Bld_version.build" Type="Int">41</Property>
+				<Property Name="Bld_version.build" Type="Int">44</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">대상 디렉토리</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2017/Custom Devices/Serial Communcation Devices</Property>
@@ -114,7 +114,7 @@
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2017/Custom Devices/Serial Communcation Devices</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A66606F6-278F-4E93-88A0-2EBBFFF3CD35}</Property>
-				<Property Name="Bld_version.build" Type="Int">35</Property>
+				<Property Name="Bld_version.build" Type="Int">38</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">대상 디렉토리</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2017/Custom Devices/Serial Communcation Devices</Property>
